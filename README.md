@@ -20,15 +20,15 @@ Les étapes du brief (Certaines étapes demandent une collaboration avec un de v
 
 2ème partie :
 
-- [] Création et Résolution de Conflits
-    - [] Créez des conflits Git en modifiant le même fichier dans deux branches différentes.
-    - [] Utilisez PhpStorm pour résoudre ces conflits en suivant les instructions visuelles.
-    - [] Commitez la résolution du conflit une fois les modifications acceptées.
-- [] Collaboration sur une Fonctionnalité Complexe
-    - [] En binôme, développez une fonctionnalité plus complexe (ex. : un formulaire HTML avec CSS personnalisé) sur une branche dédiée.
-    - [] Fusionnez le travail via des pull requests et gérez les conflits.
-- [] Déploiement sur GitHub Pages
-    - [] Déployez le projet sur GitHub Pages depuis les Settings du dépôt GitHub.
-    - [] Prévisualisez le site sur l’URL GitHub Pages générée.
+- [x] Création et Résolution de Conflits
+    - [x] Créez des conflits Git en modifiant le même fichier dans deux branches différentes.
+    - [x] Utilisez PhpStorm pour résoudre ces conflits en suivant les instructions visuelles.
+    - [x] Commitez la résolution du conflit une fois les modifications acceptées.
+- [x] Collaboration sur une Fonctionnalité Complexe
+    - [x] En binôme, développez une fonctionnalité plus complexe (ex. : un formulaire HTML avec CSS personnalisé) sur une branche dédiée.
+    - [x] Fusionnez le travail via des pull requests et gérez les conflits.
+- [x] Déploiement sur GitHub Pages
+    - [x] Déployez le projet sur GitHub Pages depuis les Settings du dépôt GitHub.
+    - [x] Prévisualisez le site sur l’URL GitHub Pages générée.
 
 ​
